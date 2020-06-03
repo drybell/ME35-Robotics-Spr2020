@@ -1,0 +1,139 @@
+Speed was: 800
+Input Distance ball Travelled: 28
+800  1
+Speed was: 800
+Input Distance ball Travelled: 6
+800  2
+Speed was: 800
+Input Distance ball Travelled: 6
+800  3
+Speed was: 950
+Input Distance ball Travelled: 7
+950  1
+Speed was: 950
+Input Distance ball Travelled: 10
+950  2
+Speed was: 950
+Input Distance ball Travelled: 7
+950  3
+Speed was: 1100
+Input Distance ball Travelled: 7
+1100  1
+Speed was: 1100
+Input Distance ball Travelled: 5
+1100  2
+Speed was: 1100
+Input Distance ball Travelled: 8
+1100  3
+Speed was: 1250
+Input Distance ball Travelled: 6
+1250  1
+Speed was: 1250
+Input Distance ball Travelled: 7
+1250  2
+Speed was: 1250
+Input Distance ball Travelled: 6
+1250  3
+Speed was: 1400
+Input Distance ball Travelled: 9
+1400  1
+Speed was: 1400
+Input Distance ball Travelled: 7
+1400  2
+Speed was: 1400
+Input Distance ball Travelled: 7
+1400  3
+Speed was: 1550
+Input Distance ball Travelled: 13
+1550  1
+Speed was: 1550
+Input Distance ball Travelled: 11
+1550  2
+Speed was: 1550
+Input Distance ball Travelled: 10
+1550  3
+Speed was: 1700
+Input Distance ball Travelled: 13
+1700  1
+Speed was: 1700
+Input Distance ball Travelled: 14
+1700  2
+Speed was: 1700
+Input Distance ball Travelled: 17
+1700  3
+Speed was: 1850
+Input Distance ball Travelled: 19
+1850  1
+Speed was: 1850
+Input Distance ball Travelled: 21
+1850  2
+^[[
+Speed was: 1850
+Input Distance ball Travelled: 19
+1850  3
+Speed was: 2000
+Input Distance ball Travelled: 15
+2000  1
+Speed was: 2000
+Input Distance ball Travelled: 16
+2000  2
+Speed was: 2000
+Input Distance ball Travelled: 13
+2000  3
+Speed was: 2150
+Input Distance ball Travelled: 15
+2150  1
+Speed was: 2150
+Input Distance ball Travelled: 19
+2150  2
+Speed was: 2150
+Input Distance ball Travelled: 23
+2150  3
+Speed was: 2300
+Input Distance ball Travelled: 25
+2300  1
+Speed was: 2300
+Input Distance ball Travelled: 27
+2300  2
+Speed was: 2300
+Input Distance ball Travelled: 23
+2300  3
+Speed was: 2450
+Input Distance ball Travelled: 28
+2450  1
+Speed was: 2450
+Input Distance ball Travelled: 24
+2450  2
+Speed was: 2450
+Input Distance ball Travelled: 21
+2450  3
+Speed was: 2600
+Input Distance ball Travelled: 22
+2600  1
+Speed was: 2600
+Input Distance ball Travelled: 30
+2600  2
+Speed was: 2600
+Input Distance ball Travelled: 24
+2600  3
+Speed was: 2750
+Input Distance ball Travelled: 29
+2750  1
+Speed was: 2750
+Input Distance ball Travelled: 28
+2750  2
+Speed was: 2750
+Input Distance ball Travelled: 24
+2750  3
+Speed was: 2900
+Input Distance ball Travelled: 34
+2900  1
+Speed was: 2900
+Input Distance ball Travelled: 36
+2900  2
+Speed was: 2900
+Input Distance ball Travelled: 36
+2900  3
+Speed was: 3050
+Input Distance ball Travelled: 36
+3050  1

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>legotrainset</folder>
+	<filename>IMG_7497.JPG</filename>
+	<path>/Users/drybezzz/Documents/SCHOOL/SPRING_2020/Robotics/hw7/legotrainset/IMG_7497.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>7rail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1779</xmin>
+			<ymin>103</ymin>
+			<xmax>2629</xmax>
+			<ymax>1092</ymax>
+		</bndbox>
+	</object>
+</annotation>

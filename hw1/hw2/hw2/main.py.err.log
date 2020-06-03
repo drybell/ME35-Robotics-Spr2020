@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/robot/hw2/main.py", line 2, in <module>
+    from pybricks import ev3brick as brick
+ImportError: No module named pybricks

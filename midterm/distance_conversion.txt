@@ -1,0 +1,30 @@
+
+
+cup data for ultrasonic sensor 
+
+1 cup = 36
+1.5 = 95
+2 = 166
+2.5 = 227
+3 = 298
+3.5 = 365
+4 = 440
+4.5 = 525
+5 = 600
+5.5 = 666
+6 = 748
+6.5 = 788
+7 = 873
+7.5 = 925
+8 = 1020
+8.5 = 1100
+9 = 1200
+9.5 = 1250
+10 = 1400
+
+
+diameter of cup is 12 cm 
+ultrasonic distance = 143.97(cup distance) - 126.83
+inverse: 
+			cup_distance = .0069(ultrasonic_distance) + .8866 
+			ROUND TO NEAREST .5 OR WHOLE NUMBER 
